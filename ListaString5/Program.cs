@@ -13,7 +13,6 @@ namespace Lista5
     {
         static int Menu()
         {
-
             Console.Clear();
             int resp;
             Console.WriteLine("Entre com o número de acordo com o exercício.\n");
